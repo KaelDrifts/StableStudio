@@ -8,6 +8,7 @@
       "name": "Launch UI in Chrome",
       "type": "chrome",
       "request": "launch",
+      //Lw
       "url": "http://localhost:3000",
       "webRoot": "${workspaceFolder}"
     },
